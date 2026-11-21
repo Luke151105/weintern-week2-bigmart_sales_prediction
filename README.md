@@ -40,9 +40,13 @@ Observations:
 Model results
 
 Model	                                  R²	 MAE	   RMSE
+
 Linear Regression baseline	         0.5447	875.67	1185.56
+
 Initial XGBoost             	       0.5360	834.54	1196.84
+
 XGBoost with 13 selected features	   0.5424	826.23	1188.52
+
 Tuned XGBoost with 13 features	     0.5811	800.01	1137.24
 
 
