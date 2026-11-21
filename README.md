@@ -19,7 +19,7 @@ Workflow
 - Filled missing Item_Weight values using the mean weight within each Item_Type.
 - Filled missing Outlet_Size values using the most frequent outlet size within each Outlet_Type.
 - Standardised Item_Fat_Content labels (low fat and LF to Low Fat; reg to Regular).
-- 
+  
 2. Exploratory data analysis
   Performed descriptive statistics, numeric distributions, categorical counts, relationships between features and sales, and a correlation heatmap. Visualisations include histograms/KDE plots, count plots, a pie chart, bar plots, and scatter plots.
 
@@ -28,7 +28,7 @@ Observations:
 - Item_MRP has a positive correlation with Item_Outlet_Sales (approximately 0.568).
 - Item_Visibility has a weak negative correlation with Item_Outlet_Sales (approximately -0.129).
 - The strongest feature importances in the initial XGBoost model were Outlet_Identifier_OUT027 and Outlet_Type_Supermarket Type1.
-- 
+  
 3. Sales prediction
 - Removed Item_Identifier from the predictors.
 - Applied one-hot encoding with pd.get_dummies(..., drop_first=True), producing 37 columns in the encoded dataframe (including the target).
@@ -36,7 +36,7 @@ Observations:
 - Trained Linear Regression as a baseline and XGBoost Regressor as the tree-based model.
 - Ranked feature importances from the initial XGBoost model, selected 13 predictors, and retrained XGBoost.
 - Tuned the 13-feature XGBoost model using RandomizedSearchCV with 20 sampled parameter combinations and 5-fold cross-validation.
-- 
+  
 Model results
 
 Model	                                  R²	 MAE	   RMSE
@@ -54,7 +54,7 @@ Best hyperparameters found
 - max_depth: 3
 - n_estimators: 116
 - subsample: 0.82781
-- 
+  
 Requirements
 The notebook uses:
 - Python 3
@@ -65,7 +65,7 @@ The notebook uses:
 - scikit-learn
 - XGBoost
 - SciPy
-- 
+  
 Install dependencies with:
 
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost scipy jupyter
