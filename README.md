@@ -1,6 +1,7 @@
 Big Mart Sales Prediction 
 
 Project overview
+
 This project analyses the BigMart retail sales dataset and develops regression models to estimate Item_Outlet_Sales using product and outlet characteristics. The work is organised into data cleaning, exploratory data analysis (EDA), and sales prediction.
 
 Dataset
