@@ -49,6 +49,14 @@ Best hyperparameters found
 - max_depth: 3
 - n_estimators: 116
 - subsample: 0.82781
+
+Business Interpretation of the Prediction Model
+
+The tuned XGBoost model with 13 selected features achieved the best performance among the evaluated models, with an R² of 0.5811, MAE of 800.01, and RMSE of 1137.24.
+
+The model can support retail decision-making by providing estimated sales figures for different products and outlets. These estimates may help with inventory planning, product allocation, and understanding outlet-level sales patterns.
+
+However, the model does not explain all variations in sales, and its predictions should be treated as estimates rather than exact sales figures.
   
 Requirements
 
