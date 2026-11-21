@@ -138,6 +138,58 @@ Item Fat Content
 
 Bivariate Analysis
 
+Sales by Item Type 
+
+<img width="1457" height="863" alt="Average Sales by Item Type" src="https://github.com/user-attachments/assets/5924b038-5ed2-437e-92d0-eb93ec90c74b" />
+
+Sales by Item Visibility 
+
+<img width="514" height="319" alt="Item Visibility vs Sales" src="https://github.com/user-attachments/assets/49a6fff6-009c-4800-aa5a-e9ddae6a65f0" />
+
+Sales by Item MRP
+
+<img width="1170" height="305" alt="Item MRP vs Sales" src="https://github.com/user-attachments/assets/822f8883-cee7-4e86-985b-dc3f5832e04a" />
+
+Sales by Outlet Size
+
+<img width="397" height="265" alt="Average Sales by Outlet Size" src="https://github.com/user-attachments/assets/68fa2fca-a204-4940-ae54-784797471d1a" />
+
+
+Sales by Outlet Location Type
+
+<img width="397" height="265" alt="Average Sales by Outlet Location Type" src="https://github.com/user-attachments/assets/33b332fe-ac58-4e52-89f7-24923f83c9ff" />
+
+
+Sales by Outlet Type
+
+<img width="508" height="268" alt="Average Sales by Outlet Type" src="https://github.com/user-attachments/assets/1ffa05c5-df95-40c8-b368-da0be225bd10" />
+
+
+Correlation Heatmap 
+
+<img width="683" height="704" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/b4dd205b-4a5c-48a8-bd9d-09ce36c50e6b" />
+
+
+Actual vs Predicted values for Linear Regression 
+
+<img width="410" height="388" alt="Actual vs Predicted - Initial XGBoost" src="https://github.com/user-attachments/assets/d4afcfda-7741-4130-9c80-0a11a3b9b131" />
+
+
+Actual vs Predicted values for XG Boost model using feature importance
+
+<img width="404" height="388" alt="Actual vs Predicted - Linear Regression" src="https://github.com/user-attachments/assets/f75703d7-9b43-4906-84f9-434211a8d56f" />
+
+
+
+Actual vs Predicted values for XG Boost model using hyperparametric tuning 
+
+<img width="404" height="388" alt="Actual vs Predicted - Tuned XGBoost" src="https://github.com/user-attachments/assets/2436d14a-ec4c-415a-9cef-2605f7707c03" />
+
+
+
+
+
+
 
 
 
