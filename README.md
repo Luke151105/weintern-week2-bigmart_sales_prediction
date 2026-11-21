@@ -37,17 +37,8 @@ Observations:
 - Ranked feature importances from the initial XGBoost model, selected 13 predictors, and retrained XGBoost.
 - Tuned the 13-feature XGBoost model using RandomizedSearchCV with 20 sampled parameter combinations and 5-fold cross-validation.
   
-Model results
+<img width="1752" height="897" alt="image" src="https://github.com/user-attachments/assets/abc50192-c3c1-473a-9e39-28124aa8bddc" />
 
-Model	                                  R²	 MAE	   RMSE
-
-Linear Regression baseline	         0.5447	875.67	1185.56
-
-Initial XGBoost             	       0.5360	834.54	1196.84
-
-XGBoost with 13 selected features	   0.5424	826.23	1188.52
-
-Tuned XGBoost with 13 features	     0.5811	800.01	1137.24
 
 
 The tuned XGBoost model is the best of the evaluated models on the held-out test split according to all three reported metrics.
@@ -60,6 +51,7 @@ Best hyperparameters found
 - subsample: 0.82781
   
 Requirements
+
 The notebook uses:
 - Python 3
 - pandas
