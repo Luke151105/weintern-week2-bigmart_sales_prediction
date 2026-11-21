@@ -95,24 +95,23 @@ Numerical Features:
 
 Item Weight 
 
-<img width="933" height="765" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/7f949e46-7d48-4baa-8d19-ae45c0e86793" />
+<img width="397" height="374" alt="Item Weight Distribution" src="https://github.com/user-attachments/assets/6c4b2966-554f-4bb7-ab5a-79c2ed1557ab" />
 
 Item Visibility 
 
-<img width="924" height="800" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/83b312c6-41bf-422c-8b37-f08d4d94657a" />
+<img width="391" height="374" alt="Item Visibility Distribution" src="https://github.com/user-attachments/assets/d193f3ce-b62a-41d7-bb4b-d1b12401145d" />
 
 Item MRP
 
-<img width="978" height="762" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/35b509ca-8a9b-40e2-b588-d90a3677e641" />
+<img width="391" height="374" alt="Item MRP Distribution" src="https://github.com/user-attachments/assets/b7dcda2f-cb08-4bc2-a646-1121584b6cec" />
 
 Item_Outlet_Sales
 
-<img width="974" height="756" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/0d64f7df-2f6e-4546-bffb-b952932743b4" />
+<img width="391" height="374" alt="Item Outlet Sales Distribution" src="https://github.com/user-attachments/assets/47ca7f00-6202-4486-b8bc-a5a2699c0dd6" />
 
 Outlet Establishment Year
 
-<img width="1005" height="778" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/b516a181-3c58-4ff5-abca-1ef855bdc869" />
-
+<img width="397" height="374" alt="Outlet Establishment Year" src="https://github.com/user-attachments/assets/5d9b7be0-6b42-4d9f-ae29-2526d1352297" />
 
 
 
