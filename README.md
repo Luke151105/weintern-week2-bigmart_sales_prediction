@@ -89,7 +89,7 @@ Files
 - BigMart_Sales_Prediction_Report.pdf / .docx — project report
 
 
-Visualizations 
+Visualizations:
 
 Numerical Features:
 
@@ -112,6 +112,34 @@ Item_Outlet_Sales
 Outlet Establishment Year
 
 <img width="397" height="374" alt="Outlet Establishment Year" src="https://github.com/user-attachments/assets/5d9b7be0-6b42-4d9f-ae29-2526d1352297" />
+
+
+Categorical Features:
+
+Item Type
+<img width="1736" height="374" alt="Items by Item Type" src="https://github.com/user-attachments/assets/d952daa6-690e-47f1-912c-46368186f2c9" /> <img width="363" height="231" alt="Item Type Share Pie Chart" src="https://github.com/user-attachments/assets/2020a496-6453-48c8-9ff4-fcbac2943f4e" />
+
+
+Outlet Size 
+
+<img width="397" height="375" alt="Outlet Size Distribution" src="https://github.com/user-attachments/assets/49636d75-ccf1-4c62-94b7-8b560742cfc3" />
+
+Outlet Location type
+
+<img width="397" height="376" alt="Outlet Location Type Distribution" src="https://github.com/user-attachments/assets/470e0636-79a2-44f0-aed1-90e49635ec44" />
+
+Outlet Type
+
+<img width="1736" height="374" alt="Outlet Type Distribution" src="https://github.com/user-attachments/assets/8955d167-655b-4cff-9861-093996214088" />
+
+Item Fat Content
+
+<img width="397" height="374" alt="Item Fat Content Distribution" src="https://github.com/user-attachments/assets/680c00ee-f45c-4eef-a1f8-2a82ef394046" />
+
+Bivariate Analysis
+
+
+
 
 
 
