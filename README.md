@@ -21,7 +21,7 @@ Workflow
 - Standardised Item_Fat_Content labels (low fat and LF to Low Fat; reg to Regular).
   
 2. Exploratory data analysis
-  Performed descriptive statistics, numeric distributions, categorical counts, relationships between features and sales, and a correlation heatmap. Visualisations include histograms/KDE plots, count plots, a pie chart, bar plots, and scatter plots.
+  Performed descriptive statistics, analysed numeric distributions and categorical counts, explored relationships between features and sales, and generated a correlation heatmap. Visualisations include histograms/KDE plots, count plots, a pie chart, bar plots, and scatter plots.
 
 Observations:
 
